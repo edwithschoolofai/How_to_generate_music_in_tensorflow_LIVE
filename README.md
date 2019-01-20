@@ -1,4 +1,4 @@
-# MusicGenerator
+# 음악 생성기
 
 ## 개요
 
