@@ -17,7 +17,7 @@
 
 ## 사용법
 
-모델을 훈련하기 위해서는 간단히 `main.py` 를 실행하면 됩니다. 훈련한 이후에는 `main.py --test --sample_length 500` 로 결과를 생성할 수 있습니다. 더 많은 도움말과 옵션을 보려면 `python main.py -h` 를 실행하면 됩니다.
+모델을 학습시키기 위해서는 간단히 `main.py` 를 실행하면 됩니다. 학습한 이후에는 `main.py --test --sample_length 500` 로 결과를 생성할 수 있습니다. 더 많은 도움말과 옵션을 보려면 `python main.py -h` 를 실행하면 됩니다.
 
 텐서보드를 이용해 그래프와 코스트를 보려면 `tensorboard --logdir save/` 를 실행하면 됩니다.
 
